@@ -39,4 +39,9 @@ git commit -s -m"{massage}"
 # To push-
 git push -u origin {branch name}
 
+# To tell what to download and where -
+git fetch origin {location name/branch name example-main}
+
+# To download -
+git pull origin {location name/branch name example-main}
 
