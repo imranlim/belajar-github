@@ -24,11 +24,14 @@ git push -u origin main
 # To confirm what branch
  git status
 
+
 # Before commit -all file edit-
 git add .
 
 # Before commit -specific file-
 git add {file name}
+
+
 
 # To commit-
 git commit -s -m"{massage}"
